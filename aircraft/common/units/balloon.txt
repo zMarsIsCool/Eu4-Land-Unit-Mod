@@ -1,0 +1,10 @@
+type = artillery           # One of the internal types
+unit_type = large_cast_bronze_mortar     # Optional. The technology group the unit appears for. Leaving it out will display the unit for all technology groups. 
+
+maneuver = 2                    # 1 for infantry and artillery, 2 for cavalry
+offensive_morale = 1
+defensive_morale = 1
+offensive_fire = 1
+defensive_fire = 1
+offensive_shock = 1
+defensive_shock = 1

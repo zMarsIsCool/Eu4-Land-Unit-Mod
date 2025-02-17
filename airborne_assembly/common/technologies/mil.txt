@@ -1,0 +1,9 @@
+technology = {
+    id = tech_airborne_assembly
+    enabled = yes
+    year = 1450
+    group = military
+    cost = 150
+    enable = balloon_artillery   # This should match the unit file name
+}
+

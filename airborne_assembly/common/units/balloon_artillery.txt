@@ -1,0 +1,14 @@
+balloon_artillery = {
+	name = BALLOON_UNIT_NAME  # Links to the localization key for the name
+	desc = BALLOON_UNIT_DESCR  # Links to the localization key for the description
+	type = artillery              # One of the internal types
+	unit_type = 7
+
+	maneuver = 1                     # 1 for infantry and artillery, 2 for cavalry
+	offensive_morale = 0
+	defensive_morale = 1
+	offensive_fire = 1
+	defensive_fire = 1
+	offensive_shock = 0
+	defensive_shock = 0
+}
